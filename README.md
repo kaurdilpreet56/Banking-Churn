@@ -1,1 +1,1 @@
-# TelecomChurnCaseStudy
+# Churning Case study using ANN
